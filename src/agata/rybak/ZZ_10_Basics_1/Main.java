@@ -364,7 +364,7 @@ public class Main {
         //ex4();
         //ex5();
         //ex6();
-        //ex7(); // ------> NO TAK TROCHE TRESC NIE MA SENSU
+        //ex7();
         //ex8();
         //ex9();
         ex10();
