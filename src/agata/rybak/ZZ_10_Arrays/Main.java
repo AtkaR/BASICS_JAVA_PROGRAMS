@@ -677,19 +677,6 @@ public class Main {
 
     /*============================================ ex10 ===============================================*/
 
-    /*Następnie posortujesz elementy w tablicy kolumnami
-i znajdziesz numer tej kolumny, w której jakikolwiek element powtarza się
-najwięcej razy. Dla przykładu załóżmy, że mamy następującą tablicę:
-3 5 1
-3 9 2
-4 5 5
-Sortujemy ją kolumnami:
-1 3 5
-2 4 5
-3 5 9
-Wynikiem jest kolumna numer 2, bo element 5 wystąpił w niej 2 razy, a w żadnej
-innej kolumnie nie ma elementu, który wystąpiłby tyle razy.*/
-
     public static void ex10()
     {
         Random rnd = new Random();
